@@ -1,0 +1,11 @@
+Temperature,Wind,Sun,Play
+cold,strong,cloudy,no
+warm,strong,cloudy,no
+warm,no,sunny,yes
+hot,no,sunny,no
+hot,weak,cloudy,yes
+warm,weak,sunny,yes
+cold,weak,cloudy,no
+cold,no,sunny,yes
+hot,strong,cloudy,yes
+warm,no,cloudy,yes
